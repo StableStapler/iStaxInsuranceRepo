@@ -6,7 +6,7 @@
   "scripts": {
     "compile": "npx hardhat compile",
     "migrate": "truffle migrate --network bscTestnet",
-    "test": "npx hardhat test"
+    "test": "npx hardhat test test/StaxToken_waffle"
   },
   "dependencies": {
     "@openzeppelin/contracts": "^3.2.0",
