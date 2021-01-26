@@ -1,3 +1,4 @@
+// require("@nomiclabs/hardhat-truffle5");
 require("@nomiclabs/hardhat-waffle");
 
 task("accounts", "Prints the list of accounts", async () => {
